@@ -1,0 +1,248 @@
+.featured-gift-cards {
+  margin: 0;
+  width: 425px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  max-width: 100%;
+}
+.tag-icon22 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button23 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 48px;
+}
+.tag-icon23 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button22 {
+  cursor: pointer;
+  border: 1px solid #000;
+  padding: 6px 15px;
+  background-color: transparent;
+  width: 80px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.featured-cards-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.arrow-left-icon4 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+}
+.a53d9-6929-4118-8838-2c10b17b62 {
+  border: 0;
+  background-color: transparent;
+  height: 187.2px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(/public/789a53d96929411888382c10b17b6ce5png8@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div1,
+.mall-of-the9 {
+  position: relative;
+  line-height: 22px;
+}
+.div1 {
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.container18 {
+  border-radius: 100px;
+  background-color: #d5d5d5;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px;
+  white-space: nowrap;
+}
+.container18,
+.container19,
+.in-store-only1 {
+  display: flex;
+  align-items: center;
+}
+.in-store-only1 {
+  height: 15px;
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.container19 {
+  flex: 1;
+  border-radius: 100px;
+  background-color: #d5d5d5;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 11px;
+  white-space: nowrap;
+  color: #bc9c2a;
+}
+.container-group,
+.mall-of-the-emirates-city-ce-parent3 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container-group {
+  display: none;
+  flex-direction: row;
+  gap: 12px;
+  font-size: 14px;
+  color: #439227;
+}
+.mall-of-the-emirates-city-ce-parent3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.tag-icon24 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button25 {
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon25 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button24 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 32px;
+  gap: 16px;
+  text-align: center;
+  color: #000;
+}
+.products9 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 162px;
+}
+.arrow-right-icon2 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+}
+.featured-products-slider {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  font-size: 16px;
+  font-family: Lato;
+}
+.featured-container,
+.featured-container-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.featured-container {
+  width: 1536px;
+  align-items: flex-start;
+  gap: 32px;
+}
+.featured-container-wrapper {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: PoynterTextFour;
+}
+@media screen and (max-width: 850px) {
+  .featured-gift-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .featured-cards-title {
+    flex-wrap: wrap;
+  }
+  .featured-container,
+  .featured-products-slider {
+    gap: 16px;
+  }
+  .featured-container-wrapper {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .featured-gift-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

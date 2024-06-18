@@ -1,0 +1,305 @@
+.sign-up-newsletter-menpng-icon,
+.sign-up-newsletter-sendpng-icon {
+  position: absolute;
+  top: 28px;
+  left: 180px;
+  width: 170px;
+  height: 155px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.sign-up-newsletter-menpng-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 265px;
+  object-fit: cover;
+  z-index: 1;
+}
+.sign-up-newsletter-sendpng-parent {
+  height: 331px;
+  width: 350px;
+  position: relative;
+  min-width: 350px;
+  max-width: 100%;
+}
+.pattern-dundle-whitesvg-icon {
+  position: absolute;
+  top: 16.5px;
+  left: 202.7px;
+  width: 174.4px;
+  height: 183px;
+  overflow: hidden;
+}
+.heading-2,
+.sign-up-for {
+  align-self: stretch;
+  display: flex;
+}
+.sign-up-for {
+  margin: 0;
+  height: 58px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+}
+.heading-2 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  font-family: PoynterTextFour;
+}
+.get-email-updates {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.container27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.enter-your-email {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.container31,
+.input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container31 {
+  align-self: stretch;
+  overflow: hidden;
+}
+.input {
+  flex: 1;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08) inset;
+  border-radius: 3.75px;
+  background-color: #fff;
+  border: 1px solid #d7dfe1;
+  padding: 10px 14px 7px;
+}
+.container30 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1px;
+}
+.container29 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 190px;
+}
+.sign-up {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 55px;
+}
+.button30,
+.buttonmargin {
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.button30 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #017acd;
+  border-bottom: 2px solid #0c69a9;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7.5px 61px 7px;
+  min-width: 175px;
+  white-space: nowrap;
+}
+.buttonmargin {
+  cursor: pointer;
+  border: 0;
+  padding: 0 0 0 15px;
+  background-color: transparent;
+  width: 192.8px;
+  min-width: 190px;
+}
+.buttonmargin,
+.container25,
+.container26,
+.container28 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container28 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 7.5px 0 0;
+  row-gap: 20px;
+  color: #cbd5d8;
+}
+.container25,
+.container26 {
+  flex-direction: column;
+}
+.container26 {
+  align-self: stretch;
+  gap: 7.5px;
+}
+.container25 {
+  position: absolute;
+  top: 0.7px;
+  left: 2.2px;
+  width: 100%;
+  padding: 22.5px 45px;
+  box-sizing: border-box;
+  max-width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.image {
+  height: 216px;
+  flex: 1;
+  position: relative;
+  opacity: 0.1;
+  max-width: 100%;
+}
+.background21 {
+  flex: 1;
+  border-radius: 6px;
+  background-color: #091f5b;
+  overflow: hidden;
+  flex-direction: row;
+  max-width: 100%;
+}
+.background21,
+.container24,
+.newsletter-form {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container24 {
+  width: 100%;
+  flex-direction: row;
+  max-width: 579.83px;
+}
+.newsletter-form {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 57px;
+  box-sizing: border-box;
+  min-width: 377px;
+  min-height: 273px;
+  max-width: 100%;
+}
+.background20,
+.newsletter-background {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background20 {
+  width: 1280px;
+  border-radius: 6px;
+  background-color: #bad6eb;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 48.5px 151px 70.5px 119px;
+  gap: 80px;
+}
+.newsletter-background {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Lato;
+}
+@media screen and (max-width: 1225px) {
+  .sign-up-newsletter-sendpng-parent {
+    flex: 1;
+  }
+  .background20 {
+    flex-wrap: wrap;
+    padding-left: 59px;
+    padding-right: 75px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .sign-up-newsletter-sendpng-parent {
+    min-width: 100%;
+  }
+  .container28 {
+    flex-wrap: wrap;
+  }
+  .container25 {
+    padding-left: 22px;
+    padding-right: 22px;
+    box-sizing: border-box;
+  }
+  .image {
+    height: auto;
+    min-height: 216;
+  }
+  .container24 {
+    max-width: 100%;
+  }
+  .newsletter-form {
+    min-width: 100%;
+  }
+  .background20 {
+    gap: 40px;
+    padding-left: 29px;
+    padding-right: 37px;
+    box-sizing: border-box;
+  }
+  .newsletter-background {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-up-for {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .buttonmargin {
+    margin-left: 0;
+  }
+  .background20 {
+    gap: 20px;
+    padding-top: 80px;
+    padding-bottom: 46px;
+    box-sizing: border-box;
+  }
+}

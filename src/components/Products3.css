@@ -1,0 +1,183 @@
+.a53d9-6929-4118-8838-2c10b17b6-icon8 {
+  align-self: stretch;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  transform: scale(1.085);
+}
+.wrapper-789a53d9-6929-4118-883 {
+  align-self: stretch;
+  height: 187.2px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mall-of-the11 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.online9 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.background18,
+.container22 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container22 {
+  height: 24px;
+  width: 67px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.5px 1px 0 12px;
+  box-sizing: border-box;
+}
+.background18 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 9px;
+}
+.in-store9 {
+  width: 75px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background19,
+.container23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container23 {
+  height: 24px;
+  overflow: hidden;
+  padding: 0.5px 1px 0 11px;
+  box-sizing: border-box;
+}
+.background19 {
+  border-radius: 6px;
+  background-color: #f6f8f9;
+  padding: 0 2px;
+  color: #ffb779;
+}
+.background-parent2,
+.mall-of-the-emirates-city-ce-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.background-parent2 {
+  flex-direction: row;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.mall-of-the-emirates-city-ce-parent4 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.tag-icon28 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button29 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 74px;
+}
+.button-wrapper2 {
+  width: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.tag-icon29 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.button28 {
+  cursor: pointer;
+  border: 1px solid #000;
+  padding: 14px 20px;
+  background-color: transparent;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+}
+.heart-icon9 {
+  height: 14.7px;
+  width: 14.7px;
+  position: relative;
+}
+.heart-wrapper4,
+.products11 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heart-wrapper4 {
+  width: 27px;
+  height: 27px;
+  border-radius: 61.36px;
+  background-color: rgba(255, 255, 255, 0.2);
+  display: none;
+  flex-direction: row;
+  padding: 6.1px 6px;
+  box-sizing: border-box;
+}
+.products11 {
+  width: 366px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 390px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Lato;
+}

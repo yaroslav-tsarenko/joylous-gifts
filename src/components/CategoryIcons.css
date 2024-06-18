@@ -1,0 +1,412 @@
+.icon-names {
+  margin: 0;
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.all-products1 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.icon-labels {
+  width: 143.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.spacer {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 35.1px;
+}
+.icon-grid {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.vector {
+  margin: 0;
+  align-self: stretch;
+  width: 15.2px;
+  position: relative;
+  border: 0 solid #000;
+  box-sizing: border-box;
+  min-height: 27px;
+}
+.mobile-phone-credit {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.vector-parent {
+  width: 210.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+}
+.a {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.vector-icon14 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.e-commerce {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.vector-group {
+  width: 151px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a1 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  color: #1c1c1c;
+}
+.vector-icon15 {
+  height: 17.8px;
+  width: 17.8px;
+  position: relative;
+}
+.fashion-lifestyle {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+}
+.vector-container {
+  width: 200.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 17px;
+}
+.a2 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.foods-and-restaurantssvg-icon {
+  height: 30px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.foods-restaurants {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.foods-and-restaurantssvg-parent {
+  width: 216.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a3 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 35.1px;
+}
+.icon-grid4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.electronicssvg-icon {
+  height: 18px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.electronics {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.electronicssvg-parent {
+  width: 133.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a4 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.home-and-gardensvg-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.home-garden {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.home-and-gardensvg-parent {
+  width: 178.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a5 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.health-spa-beautysvg-icon {
+  height: 17.8px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.health-spa {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.health-spa-beautysvg-parent {
+  width: 222.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a6 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.travelsvg-icon {
+  height: 19.5px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.travel-experiences {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.travelsvg-parent {
+  width: 218px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.a7 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.icon-grid8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.charitysvg-icon {
+  height: 17.8px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.charity {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.charitysvg-parent {
+  width: 102.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.a8 {
+  position: relative;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 24px;
+}
+.category-icons1,
+.icon-grid9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.category-icons1 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 16px;
+  color: #767a81;
+  font-family: Lato;
+}
+@media screen and (max-width: 450px) {
+  .spacer {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .icon-grid {
+    flex-wrap: wrap;
+  }
+  .a,
+  .a1,
+  .a2,
+  .a3 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .icon-grid4 {
+    flex-wrap: wrap;
+  }
+  .a4,
+  .a5,
+  .a6,
+  .a7,
+  .a8 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .category-icons1 {
+    gap: 16px;
+  }
+}

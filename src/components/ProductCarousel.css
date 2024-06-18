@@ -1,0 +1,282 @@
+.a53d9-6929-4118-8838-2c10b17b6-icon6 {
+  height: 391.3px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.heart-icon6 {
+  height: 30.8px;
+  width: 30.8px;
+  position: relative;
+}
+.a53d9-6929-4118-8838-2c10b17b6-parent,
+.favourite-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.favourite-icon {
+  height: 56.4px;
+  width: 56.4px;
+  margin: 0 !important;
+  position: absolute;
+  top: 21.9px;
+  right: 41.6px;
+  border-radius: 128.28px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 12.8px 12px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.a53d9-6929-4118-8838-2c10b17b6-parent {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+}
+.mall-of-the6,
+.online6 {
+  position: relative;
+  line-height: 46px;
+  flex-shrink: 0;
+}
+.mall-of-the6 {
+  align-self: stretch;
+  debug_commit: 448091;
+}
+.online6 {
+  width: 117.1px;
+  display: flex;
+  align-items: center;
+}
+.background12,
+.container12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container12 {
+  overflow: hidden;
+  padding: 1px 1px 3.2px 25px;
+}
+.background12 {
+  border-radius: 12.54px;
+  background-color: #f6f8f9;
+  padding: 0 20px;
+}
+.in-store6 {
+  width: 156.8px;
+  position: relative;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background13,
+.container13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container13 {
+  width: 167.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 1px 0 3.2px 24px;
+  box-sizing: border-box;
+}
+.background13 {
+  border-radius: 12.54px;
+  background-color: #f6f8f9;
+  padding: 0 5px;
+  color: #ffb779;
+}
+.first-product-availability,
+.mall-of-the-emirates-city-ce-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25.1px;
+  max-width: 100%;
+}
+.first-product-availability {
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  color: #00cca8;
+  font-family: Roboto;
+}
+.mall-of-the-emirates-city-ce-parent2 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 75.2px;
+  box-sizing: border-box;
+}
+.tag-icon16 {
+  height: 50.2px;
+  width: 50.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 50px;
+}
+.button17 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.first-product-buy-button-conta {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.6px 0 0;
+  box-sizing: border-box;
+  min-width: 99px;
+}
+.tag-icon17 {
+  height: 50.2px;
+  width: 50.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 50px;
+}
+.button16,
+.products6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button16 {
+  align-self: stretch;
+  border-radius: 8.36px;
+  border: 2.1px solid #000;
+  flex-direction: row;
+  padding: 31px 172px 31px 176px;
+  gap: 33.5px;
+  text-align: center;
+  color: #000;
+}
+.products6 {
+  width: 588.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 11.5px 0;
+  box-sizing: border-box;
+  gap: 50.2px;
+  min-width: 588.7px;
+  max-width: 100%;
+}
+.all-products,
+.featured-product,
+.product-carousel {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.all-products {
+  width: 892.8px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 32px 22px;
+  min-width: 892.8px;
+  min-height: 752px;
+  font-size: 16px;
+}
+.featured-product,
+.product-carousel {
+  justify-content: center;
+}
+.featured-product {
+  gap: 54.5px;
+}
+.product-carousel {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 33.4px;
+  color: #1c1c1c;
+  font-family: Lato;
+}
+@media screen and (max-width: 1500px) {
+  .all-products,
+  .products6 {
+    flex: 1;
+  }
+  .featured-product {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .all-products {
+    min-width: 100%;
+  }
+  .product-carousel {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .button17,
+  .in-store6,
+  .mall-of-the6,
+  .online6 {
+    font-size: 27px;
+    line-height: 36px;
+  }
+  .button16 {
+    flex-wrap: wrap;
+    gap: 17px;
+    padding-left: 88px;
+    padding-right: 86px;
+    box-sizing: border-box;
+  }
+  .products6 {
+    gap: 25px;
+    min-width: 100%;
+  }
+  .featured-product {
+    gap: 27px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .in-store6,
+  .mall-of-the6,
+  .online6 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .first-product-availability {
+    flex-wrap: wrap;
+  }
+  .mall-of-the-emirates-city-ce-parent2 {
+    height: auto;
+  }
+  .button17 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .button16 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .product-carousel {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

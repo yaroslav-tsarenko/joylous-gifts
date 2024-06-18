@@ -1,0 +1,285 @@
+.logo-symbol-icon2 {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.thejoyousgifts2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.logo2 {
+  width: 307px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 6px 0 0;
+  box-sizing: border-box;
+  gap: 18px;
+  font-size: 32px;
+  font-family: PoynterTextFour;
+}
+.about3 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 73px;
+}
+.about4,
+.contact2,
+.faq1,
+.press1,
+.reviews1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 46px;
+}
+.contact2,
+.faq1,
+.press1,
+.reviews1 {
+  min-width: 31px;
+}
+.contact2,
+.press1,
+.reviews1 {
+  min-width: 61px;
+}
+.press1,
+.reviews1 {
+  min-width: 42px;
+}
+.reviews1 {
+  min-width: 63px;
+}
+.about-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.product1 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 94px;
+}
+.businesses1 {
+  display: inline-block;
+  min-width: 85px;
+}
+.businesses1,
+.gift-card-incentives1 {
+  position: relative;
+  line-height: 120%;
+}
+.footer-links2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.legal1,
+.privacy1,
+.site-terms1 {
+  position: relative;
+  display: inline-block;
+}
+.legal1 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  min-width: 64px;
+}
+.privacy1,
+.site-terms1 {
+  line-height: 120%;
+  min-width: 81px;
+}
+.privacy1 {
+  min-width: 56px;
+}
+.footer-links3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.use-gifthaven1 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.how-it-works1,
+.redeem1,
+.why-us1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 98px;
+}
+.redeem1,
+.why-us1 {
+  min-width: 67px;
+}
+.redeem1 {
+  min-width: 62px;
+}
+.footer-links4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.other-stuff1 {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.blog2,
+.gift-card-worth1,
+.sitemap1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 34px;
+}
+.gift-card-worth1,
+.sitemap1 {
+  min-width: 119px;
+}
+.sitemap1 {
+  min-width: 62px;
+}
+.footer-columns,
+.footer-links5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.footer-columns {
+  width: 1536px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.categories3,
+.restaurants-bars-spas-shopping1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.categories3 {
+  min-width: 83px;
+}
+.restaurants-bars-spas-shopping1 {
+  max-width: 100%;
+}
+.category-list {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+}
+.category-list,
+.footer-desktop1,
+.footer-links1,
+.footer1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-links1 {
+  flex: 1;
+  background-color: #344ead;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px 102px;
+  box-sizing: border-box;
+  gap: 64px;
+}
+.footer-desktop1,
+.footer1 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.footer1 {
+  flex: 1;
+  background-color: #fff;
+}
+.footer-desktop1 {
+  align-self: stretch;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .category-list,
+  .footer-columns {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .thejoyousgifts2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footer-links1 {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 66px;
+    box-sizing: border-box;
+  }
+  .footer-desktop1 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about3,
+  .legal1,
+  .other-stuff1,
+  .product1,
+  .thejoyousgifts2,
+  .use-gifthaven1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer-links1 {
+    gap: 16px;
+  }
+}

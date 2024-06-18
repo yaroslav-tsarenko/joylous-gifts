@@ -1,0 +1,126 @@
+.a53d9-6929-4118-8838-2c10b17b6-child {
+  position: absolute;
+  top: -41.2px;
+  left: -39px;
+  max-height: 100%;
+  width: 163.9px;
+  object-fit: contain;
+  display: none;
+}
+.a53d9-6929-4118-8838-2c10b17b61 {
+  align-self: stretch;
+  height: 187.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(/public/789a53d96929411888382c10b17b6ce5png4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div,
+.mall-of-the8 {
+  position: relative;
+  line-height: 22px;
+}
+.div {
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.container16 {
+  border-radius: 100px;
+  background-color: #d5d5d5;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px;
+  white-space: nowrap;
+}
+.container16,
+.container17,
+.in-store-only {
+  display: flex;
+  align-items: center;
+}
+.in-store-only {
+  height: 15px;
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.container17 {
+  flex: 1;
+  border-radius: 100px;
+  background-color: #d5d5d5;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 11px;
+  white-space: nowrap;
+  color: #bc9c2a;
+}
+.container-parent,
+.featured-product-names {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container-parent {
+  display: none;
+  flex-direction: row;
+  gap: 12px;
+  font-size: 14px;
+  color: #439227;
+}
+.featured-product-names {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.tag-icon20 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button21 {
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon21 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button20 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 32px;
+  gap: 16px;
+  text-align: center;
+  color: #000;
+}
+.products8 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 162px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Lato;
+}

@@ -1,0 +1,144 @@
+.you-may-also {
+  margin: 0;
+  width: 407px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  max-width: 100%;
+}
+.tag-icon38 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button42 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 48px;
+}
+.button-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.tag-icon39 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.button41 {
+  cursor: pointer;
+  border: 1px solid #000;
+  padding: 6px 15px;
+  background-color: transparent;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.recommendations-header {
+  width: 1536px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.arrow-left-icon5 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.carousel-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 150.6px 0 0;
+}
+.arrow-right-icon3 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.carousel-items1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 150.6px 0 0;
+}
+.product-carousel1,
+.recommendations-header-parent {
+  display: flex;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.product-carousel1 {
+  width: 1536px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  font-size: 16px;
+  font-family: Lato;
+}
+.recommendations-header-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: PoynterTextFour;
+}
+@media screen and (max-width: 750px) {
+  .you-may-also {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .recommendations-header {
+    flex-wrap: wrap;
+  }
+  .product-carousel1 {
+    gap: 16px;
+  }
+  .recommendations-header-parent {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .you-may-also {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

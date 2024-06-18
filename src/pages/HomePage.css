@@ -1,0 +1,17 @@
+.homepage,
+.single-brand-container-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.single-brand-container-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+}

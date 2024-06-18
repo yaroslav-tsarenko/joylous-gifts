@@ -1,0 +1,85 @@
+.amazon-gift-card {
+  margin: 0;
+  width: 394px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  max-width: 100%;
+}
+.amazon-gift-card-wrapper {
+  width: 1538px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 522px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent,
+.productpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: center;
+  padding: 80px 20px 80px 22px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #373547;
+  font-family: PoynterTextFour;
+}
+.productpage {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .amazon-gift-card-wrapper {
+    padding-left: 261px;
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .amazon-gift-card {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .amazon-gift-card {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .amazon-gift-card-wrapper {
+    padding-left: 130px;
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

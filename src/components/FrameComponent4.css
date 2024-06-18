@@ -1,0 +1,180 @@
+.pngwing-1-icon {
+  width: 549px;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  max-width: 100%;
+}
+.discover-the-joy {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.with-our-wide {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.discover-the-joy-of-giving-parent,
+.with-our-wide-range-of-gift-ca-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.with-our-wide-range-of-gift-ca-wrapper {
+  flex-direction: row;
+  padding: 0 38px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  font-family: Lato;
+}
+.discover-the-joy-of-giving-parent {
+  flex-direction: column;
+  gap: 24px;
+}
+.tag-icon12 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button13 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 55px;
+}
+.tag-icon13 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button12,
+.give-joy-content {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #091f5b;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.give-joy-content {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.give-joy-content-wrapper,
+.homepage-inner,
+.pngwing-1-parent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.give-joy-content-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 74px 0 0;
+  min-width: 365px;
+}
+.homepage-inner,
+.pngwing-1-parent {
+  overflow: hidden;
+  flex-direction: row;
+}
+.pngwing-1-parent {
+  width: 1536px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  padding: 87.8px 114px 87.8px 133px;
+  gap: 178px;
+  background-image: url(/public/frame-1000007908@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.homepage-inner {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 80px 20px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: PoynterTextFour;
+}
+@media screen and (max-width: 1500px) {
+  .pngwing-1-icon {
+    flex: 1;
+  }
+  .pngwing-1-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .pngwing-1-parent {
+    gap: 89px;
+    padding-left: 66px;
+    padding-right: 57px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .discover-the-joy {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .give-joy-content {
+    gap: 16px;
+  }
+  .give-joy-content-wrapper {
+    min-width: 100%;
+  }
+  .pngwing-1-parent {
+    gap: 44px;
+    padding: 57px 28px 57px 33px;
+    box-sizing: border-box;
+  }
+  .homepage-inner {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .discover-the-joy {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .pngwing-1-parent {
+    gap: 22px;
+  }
+}

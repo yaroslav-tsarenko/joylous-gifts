@@ -1,0 +1,94 @@
+.e5981823-bb18-4432-a701-16ae11-icon {
+  align-self: stretch;
+  width: 500px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 448px;
+  debug_commit: 448091;
+}
+.pngwing-2-icon {
+  position: absolute;
+  top: calc(50% - 113px);
+  left: calc(50% - 170.7px);
+  width: 341px;
+  height: 225px;
+  object-fit: contain;
+}
+.baab3fa-94a0-49c1-bb43-73c7a62 {
+  height: 448px;
+  width: 500px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(/public/0baab3fa94a049c1bb4373c7a622fd91png@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: 448091;
+}
+.pngwing-3-icon {
+  position: absolute;
+  top: calc(50% - 120px);
+  left: calc(50% - 120.3px);
+  width: 240px;
+  height: 240px;
+  object-fit: contain;
+}
+.c548dd9-6d88-431b-8443-dc006c0 {
+  height: 448px;
+  width: 500px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(/public/6c548dd96d88431b8443dc006c02f79cpng@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  debug_commit: 448091;
+}
+.b072e1f1-bb39-4194-b050-997af5-icon,
+.c548dd9-6d88-431b-8443-dc006c0-icon {
+  align-self: stretch;
+  width: 500px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 448px;
+  debug_commit: 448091;
+}
+.b072e1f1-bb39-4194-b050-997af5-icon {
+  width: 361px;
+  position: relative;
+}
+.image-carousel,
+.page-header {
+  background-color: #fff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-carousel {
+  width: 1920px;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 24px;
+}
+.page-header {
+  align-self: stretch;
+  flex-direction: column;
+}
+@media screen and (max-width: 850px) {
+  .image-carousel {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
